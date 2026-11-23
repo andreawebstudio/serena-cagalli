@@ -31,8 +31,8 @@
   --bg-pink: #FFCFCF;
   --accent: #003551;
 
-  --text: var(--petrol);
-  --text-soft: rgba(16, 63, 86, .88);
+  --text: #000000;
+  --text-soft: #000000;
   --line: rgba(0, 53, 81, .14);
   --shadow: rgba(0, 53, 81, .2);
 
